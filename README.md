@@ -8,7 +8,7 @@ Crafting **scalable backends** & **modern UIs** with precision.
 I’m a passionate Full Stack Developer who loves building:
 
 - ⚙️ **High-performance backend systems** with Java & Spring Boot  
-- 🎨 **Responsive, interactive frontends** with HTML/CSS 
+- 🎨 **Responsive, interactive frontends** with HTML/CSS
 - ☁️ **Cloud-ready apps** powered by Docker, Kubernetes & AWS  
 
 Currently diving deeper into:  
