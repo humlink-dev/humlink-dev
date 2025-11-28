@@ -1,5 +1,5 @@
 # 👋 Hi, I'm **Dip**  
-### **Java Full Stack Developer**  
+### **Full Stack Java Developer**  
 Crafting **scalable backends** & **modern UIs** with precision.
 
 ---
