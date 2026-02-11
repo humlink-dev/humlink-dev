@@ -33,9 +33,6 @@
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/humlink) 
-- 🐦 [Twitter](https://twitter.com) *(add your link)*  
-- ✉️ Reach me at: your.email@example.com  
+- 🐦 [Twitter](https://x.com/_xencrypt)
+- ✉️ Reach me at: humlink@zohomail.in
 
----
-
-⭐️ From [humlink-dev](https://github.com/humlink-dev)
