@@ -18,7 +18,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Humlink-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=humlink-dev&show_icons=true&theme=radical)
+![Humlink-Dev's GitHub stats](![Streak](https://github-readme-streak-stats.herokuapp.com/?user=humlink-dev&theme=radical))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humlink-dev&layout=compact&theme=radical)
 
