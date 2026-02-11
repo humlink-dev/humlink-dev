@@ -32,7 +32,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com) *(add your link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/humlink) 
 - 🐦 [Twitter](https://twitter.com) *(add your link)*  
 - ✉️ Reach me at: your.email@example.com  
 
