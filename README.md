@@ -3,7 +3,6 @@
 
 🚀 Passionate about building scalable, efficient, and modern software solutions.  
 💻 Exploring cutting-edge technologies, open-source contributions, and creative problem-solving.  
-🌐 Check out my work: [GitHub Profile](https://github.com/humlink-dev)
 
 ---
 
